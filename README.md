@@ -19,5 +19,5 @@
 
 ## How To Use This App??
 
-1. Clone this repo and simply run `npm install` in the command <!-- markdownlint-disable-next-line MD000 -->
+1. Clone this repo and simply run `npm install` in the terminal <!-- markdownlint-disable-next-line MD000 -->
 2. Run `npm run start` to initiate the dev server and you're up and running
